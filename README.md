@@ -13,4 +13,9 @@ I made a website that's like Shopify to try some things out. You can find lots o
 
 The Website walkthrough is guided by walk me application which guides the user through various steps on the page. Again you can refer to tons of resources online to embed the walk-through logic. We will embed this at last after we analyze the pages that show a pattern of user's navigating throughout the website.
 
+#Data Prep and Analyzing the Data
 ![Screen Shot 2024-01-13 at 1 07 11 AM](https://github.com/syedimad1998/Analyze_User_Workflow/assets/33065752/15374363-08c2-4f93-87bc-dc36b5d0fad2)
+![Screen Shot 2024-01-13 at 1 08 30 AM](https://github.com/syedimad1998/Analyze_User_Workflow/assets/33065752/0897737f-bea4-4b1f-8091-243cb59e8a48)
+![Screen Shot 2024-01-13 at 1 09 04 AM](https://github.com/syedimad1998/Analyze_User_Workflow/assets/33065752/3fb8bea1-d00f-4629-9273-a178471ec97f)
+›![Screen Shot 2024-01-13 at 1 09 25 AM](https://github.com/syedimad1998/Analyze_User_Workflow/assets/33065752/31573aee-24bb-49e9-b4b7-af659397235e)
+
